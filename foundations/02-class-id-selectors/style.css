@@ -1,0 +1,19 @@
+/* edit starts here */
+.odd {
+    background-color: #ffc0cb; /* pink */
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.font-size-24px {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff; /* blue */
+    font-size: 36px;
+}
+
+#four {
+    background-color: #90ee90; /* light green */
+    font-weight: bold;
+}
